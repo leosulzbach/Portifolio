@@ -1,0 +1,28 @@
+# Portifolio
+
+Nessa tarefa, você é seu próprio cliente: crie um website que será o seu portfólio/currículo digital. 
+
+Os requisitos são:
+- pelo menos uma foto sua e uma breve apresentação descrita já na página inicial;
+- links para suas redes sociais (twitter, facebook, instagram, linkedin, etc);
+- uma outra página (ou sessão) onde você descreverá melhor sua história, gostos e habilidades;
+- descrever suas experiências profissionais e histórico de estudos;
+- uma outra página (ou sessão) onde você apresenta alguns projetos que já trabalhou (utilizem os da aula: olaria, petshop, crieflix, e também podem acrescentar coisas     não relacionadas a tecnologia em si);
+- também deve ter um formulário para entrar em contato;
+- o site deve funcionar tanto no desktop, quanto em dispositivos móveis;
+
+Bônus/Desafios:
+- animações e transições;
+- aplicar o conjunto de técnicas de SEO;
+- utilizar SASS;
+- componentização de elementos;
+
+O que você deve entregar:
+- um vídeo de até três minutos apresentando o seu portfólio;
+- o link do repositório do Git (deve ser público);
+- a URL do portfólio publicado na VM;
+
+
+
+Foi disponibilizado um Layout base no figma:
+https://www.figma.com/file/zxHUCLj4JWPSgECKAok7hb/Portfolio?node-id=0%3A1
