@@ -8,19 +8,19 @@ body {
 
 /* Style the header */
 header {
-  background-color: #666;
+  background-color: #64B6AC;
   padding: 30px;
   text-align: center;
   font-size: 35px;
-  color: white;
+  color: black;
 }
 
 /* Create two columns/boxes that floats next to each other */
 nav {
   float: left;
   width: 30%;
-  height: 300px; /* only for demonstration, should be removed */
-  background: #ccc;
+  height: 500px; /* only for demonstration, should be removed */
+  background: #5D737E;
   padding: 20px;
 }
 
@@ -34,8 +34,8 @@ article {
   float: left;
   padding: 20px;
   width: 70%;
-  background-color: #f1f1f1;
-  height: 300px; /* only for demonstration, should be removed */
+  background-color: #DAFFEF;
+  height: 500px; /* only for demonstration, should be removed */
 }
 
 /* Clear floats after the columns */
@@ -47,10 +47,10 @@ section::after {
 
 /* Style the footer */
 footer {
-  background-color: #777;
+  background-color: #64B6AC;
   padding: 10px;
   text-align: center;
-  color: white;
+  color: black;
 }
 
 /* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
