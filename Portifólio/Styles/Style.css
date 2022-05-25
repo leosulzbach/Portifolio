@@ -18,7 +18,7 @@ header {
 
 nav {
   float: left;
-  width: 30%;
+  width: 20%;
   height: 700px; 
   background: #5D737E;
   padding: 20px;
@@ -33,7 +33,7 @@ nav ul {
 article {
   float: left;
   padding: 20px;
-  width: 70%;
+  width: 80%;
   background-color: #DAFFEF;
   height: 700px; 
 }
@@ -80,4 +80,5 @@ footer {
 .fa-solid{
   margin-right: 5px;
 }
+
 
