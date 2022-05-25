@@ -26,9 +26,36 @@
   </nav>
   
   <article>
-    <h1>Lorem Ipsum</h1>
-    <p>Aqui que da uma pegueids.</p>
-    <p>Tenq ter formulario kk.</p>
+    <form>
+  <div class="form-row">
+    <div class="form-group col-md-6">
+      <label for="inputName">Nome</label>
+      <input type="text" id="inputName" class="form-control" placeholder="Seu Nome" required>
+    </div>
+    <br>
+    <div class="form-group col-md-6">
+      <label for="inputEmail">Email</label>
+      <input type="email" id="inputEmail" class="form-control" placeholder="Seu Email" required>
+    </div>
+  </div>
+  <br>
+  <div class="form-group col-md-6">
+    <label for="inputPhone">Telefone</label>
+    <input type="tel" id="inputPhone" class="form-control" placeholder="99999-9999" pattern="[0-9]{5}-[0-9]{4}" required>
+  </div>
+  <br>
+  <div class="form-group col-md-6">
+    <label for="inputSubject">Assunto</label>
+    <input type="text" id="inputSubject" class="form-control" placeholder="O Assunto que deseja tratar">
+  </div>
+  <br>
+  <div class="form-group col-md-6">
+    <label for="inputText">Mensagem</label>
+    <textarea class="form-control" id="inputText" placeholder="Sua Mensagem" rows="3"></textarea>
+  </div>
+  <br>
+  <button type="submit" class="btn btn-primary">Enviar</button>
+</form>
   </article>
 </section>
 
